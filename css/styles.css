@@ -1,11 +1,13 @@
 body{
     background-color: black;
-    margin: 80px 680px 40px 680px;
+    
 }
 .post{
     justify-content: center;
     background-color: white;
     padding-bottom: 20px;
+    margin: auto;
+    width: 30%;
     
 }
 .foto{
